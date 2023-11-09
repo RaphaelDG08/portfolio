@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .formacao {
   background: #141414;
   color: #fff;
